@@ -4,17 +4,20 @@ agtyra:
   url: https://github.com/agtyra
   image_url: https://i.pinimg.com/736x/21/71/40/217140034720f7a26c2d6d5a27f618ab.jpg
 
+
 luticakep:
   name: Kayla Soraya Djakaria
   title: luticakep
   url: https://github.com/luticakep
   image_url: https://i.pinimg.com/736x/5b/4e/4a/5b4e4a4f2c617cd658c15fc232a79d80.jpg
 
+
 samuellapnadia:
   name: Samuella Putri Nadia Pauntu
   title: senangny menjd watashi
   url: https://github.com/samuellapnadia
   image_url: https://i.pinimg.com/736x/47/16/d3/4716d3b8b9cccfbe4fc1b2ff04f61068.jpg
+
 
 yangshun:
   name: Yangshun Tay
@@ -25,6 +28,7 @@ yangshun:
   socials:
     x: yangshunz
     github: yangshun
+
 
 slorber:
   name: Sébastien Lorber
